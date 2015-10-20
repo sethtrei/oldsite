@@ -1,6 +1,6 @@
 
        .boxed {
-         background-color: white;
+         background-color: #00FF00;
          width: 500px;
          margin-left: auto;
          margin-right: auto;
@@ -14,7 +14,7 @@
 }
 
 h1 {
-    color: white;
+    color: #00FF00;
 }
 
 body { 
@@ -23,5 +23,6 @@ body {
      color: black;
      background-image: url("stars-06.jpg");
 }
-           
+
+  
       
