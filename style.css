@@ -1,9 +1,17 @@
    a {text-decoration: none;}
+    
+     @font-face {
+    font-family: 'basictitlefont'; /*a name to be used later*/
+    src: url('basictitlefont.ttf'); /*URL to font*/
+}
+       
+       
+      
        .boxed { 
          background-color: #00FF00;
-         width: 500px;
          margin-left: auto;
          margin-right: auto;
+         font-family: 'basictitlefont';
         }
        
        
@@ -15,13 +23,17 @@
 
 h1 {
     color: #00FF00;
+      font-family: 'basictitlefont';
 }
 
 body { 
     text-align: center;
-     font-size: 200%;
+     font-family: 'basictitlefont';
+     font-size: 300%;
+     font-weight: 900;
      color: black;
      background-image: url("stars-06.jpg");
+     
 }
 
   
