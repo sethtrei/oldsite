@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'BTF'; /*a name to be used later*/
-    src: url('basictitlefont.ttf'); /*URL to font*/
+    src: url('https://sethtrei.github.io/resources/basictitlefont.ttf'); /*URL to font*/
 }
 body { 
     text-align: center;

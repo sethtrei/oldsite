@@ -2,7 +2,7 @@
     
      @font-face {
     font-family: 'basictitlefont'; /*a name to be used later*/
-    src: url('basictitlefont.ttf'); /*URL to font*/
+    src: url('resources/basictitlefont.ttf'); /*URL to font*/
 }
        
        
@@ -44,7 +44,7 @@ h1 {
 
 body {
   
-     background-image: url("stars-06.jpg");
+     background-image: url("resources/stars-06.jpg");
      
 }
 
