@@ -1,14 +1,14 @@
    a {text-decoration: none;}
-    
+
      @font-face {
     font-family: 'basictitlefont'; /*a name to be used later*/
     src: url('resources/basictitlefont.ttf'); /*URL to font*/
 }
-       
-       
+
+
        .selector
 {
-    
+
  position: fixed;
     font-family: 'basictitlefont';
     font-size: 200%;
@@ -20,15 +20,15 @@
     background: #ccc; /* some styling */
     border-bottom: 1px solid #333; /* some styling */
 }
-       
-      
-       .boxed { 
+
+
+       .boxed {
          background-color: #00FF00;
          margin-left: auto;
          margin-right: auto;
          font-family: 'basictitlefont';
         }
-       
+
 
 
 h1 {
@@ -39,13 +39,13 @@ h1 {
        text-align: center;
         font-size: 700%;
        font-weight: bold;
-      
+
 }
 
 body {
-  
+
      background-image: url("resources/stars-06.jpg");
-     
+
 }
 
 p1
@@ -58,13 +58,13 @@ p1
      color: black;
 }
 p2 {
-   
+
     text-align:center;
      font-family: 'basictitlefont';
      font-size: 200%;
      font-weight: bold;
      color: black;
-     
+
 }
 
 #propic{
@@ -73,7 +73,7 @@ p2 {
     margin-left: auto;
     margin-right: auto;
         width: 200px;
-    border-radius: 50%;
+    border-radius: 40%;
 }
 
 #contact{
