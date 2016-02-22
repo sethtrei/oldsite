@@ -4,7 +4,7 @@
 }
 @font-face {
     font-family: 'op'; /*a name to be used later*/
-    src: url('https://sethtrei.github.io/resources/ops.ttf'); /*URL to font*/
+    src: url('https://github.com/sethtrei/sethtrei.github.io/blob/master/resources/ops.ttf?raw=true'); /*URL to font*/
 }
 body {
     text-align: center;
