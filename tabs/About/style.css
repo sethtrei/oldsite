@@ -2,15 +2,25 @@
     font-family: 'BTF'; /*a name to be used later*/
     src: url('https://sethtrei.github.io/resources/basictitlefont.ttf'); /*URL to font*/
 }
-body { 
+@font-face {
+    font-family: 'op'; /*a name to be used later*/
+    src: url('https://sethtrei.github.io/resources/OpenSans-Regular.ttf'); /*URL to font*/
+}
+body {
     text-align: center;
     background-color: #00FF00;
-    font-family:'BTF';
     font-size:400%;
+}
+h1 {
+  font-family: 'BTF'
+}
+p1{
+  font-family: : 'op'
+  font-size:100%
 }
 .selector
 {
-    
+
  position: fixed;
     font-family: 'BTF';
     font-size: 50%;
