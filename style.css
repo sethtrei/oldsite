@@ -61,7 +61,7 @@ p2 {
 
     text-align:center;
      font-family: 'name';
-     font-size: 200%;
+     font-size: 100%;
      font-weight: bold;
      color: black;
 
@@ -80,4 +80,11 @@ p2 {
     margin-left: auto;
     margin-right: auto;
     width: 6em
+}
+
+hr {
+  border-color: #00ff00;
+  width: 75%;
+  size: 10;
+
 }
