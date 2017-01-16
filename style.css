@@ -1,5 +1,6 @@
    a {text-decoration: none;}
 
+
      @font-face {
     font-family: 'name'; /*a name to be used later*/
     src: url('resources/newfont.ttf'); /*URL to font*/
@@ -8,15 +9,18 @@
 
 
 
-
+a:visited
+{
+color: blue;
+}
 
 
 
 
 .selector
 {
-
-    position: fixed;
+    display:table;
+    position: top;
     font-family: 'name';
     font-size: 200%;
     width: 100%;
