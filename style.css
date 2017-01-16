@@ -6,10 +6,17 @@
 }
 
 
-       .selector
+
+
+
+
+
+
+
+.selector
 {
 
- position: fixed;
+    position: fixed;
     font-family: 'name';
     font-size: 200%;
     width: 100%;
